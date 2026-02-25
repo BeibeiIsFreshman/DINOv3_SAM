@@ -2,7 +2,13 @@
 Knowledge Distillation from DINOv3-Guided SAM for Lightweight Underwater Salient Object Detection
 
 # Performance comparison of various models on USOD datasets
-<img width="1113" height="605" alt="image" src="https://github.com/user-attachments/assets/c01b28df-26b8-4a6f-9865-8b4c6c890657" />
+<img width="1149" height="1074" alt="image" src="https://github.com/user-attachments/assets/51214198-85e5-4317-9070-5f89510d9410" />
+
+# Ablation Studies
+<img width="868" height="620" alt="image" src="https://github.com/user-attachments/assets/4f7905ae-3db3-42d0-99cb-da5b513933fd" />
+
+# Comparison with state-of-the-art methods on USOD10K dataset
+<img width="735" height="379" alt="image" src="https://github.com/user-attachments/assets/8c6addbd-dd86-47af-a885-8d863fd6aa1d" />
 
 # Weight
 Upload after acceptance
